@@ -9,5 +9,7 @@ public class DebugChallengeTest
             Console.WriteLine(j * l);
             i += 1;
         }
+
+        //John says hi
 	}
 }
